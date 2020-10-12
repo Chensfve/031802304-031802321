@@ -1,7 +1,7 @@
 # 031802304-031802321
 
 - ## Catalogue and Using Instruction 目录和使用说明
-  - #### 目录
+  - #### 目录（可下载压缩包tree.zip或是直接下载响应文件）
    - index.html（主页）
    - treeEchart.js （字符分割与树的建立）
    - echarts.js  echarts.min.js （节点操作）

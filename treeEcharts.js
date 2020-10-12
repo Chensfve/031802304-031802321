@@ -105,7 +105,8 @@ function drawTree(treeData,nname="") {
 			left : '10%',
 			bottom : '2%',
 			right : '15%',
-			symbolSize : 7,
+			
+			symbolSize : 12,
 			label : {
 				normal : {
 					position : 'left',

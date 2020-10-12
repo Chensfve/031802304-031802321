@@ -13,15 +13,23 @@
 		body{
 			background-image: url(1.jpg);
 		}
+		.p{
+			position: absolute;
+			right:0;
+			top:0;
+			font-size: larger;
+		}
 		strong{
 			color:chocolate;
 		}
-		
+		textarea{
+			border-color:burlywood;
+		}
 	</style>
 </head>
 <body>
 	<h1>请输入你的<strong>师门树</strong>吧！</h1>		
-	<textarea id="tree" rows="24" cols="60"></textarea>
+	<textarea id="tree" rows="40" cols="60"></textarea>
 	<button onclick="trans()">提交</button>
 	<div class = "p">
 	<div id="0tree" style="width:1000px;height:900px;"></div>
